@@ -56,6 +56,12 @@ button {
   margin-bottom: 8px;
 }
 
+.content form label span {
+  font-size: 12px;
+  color: #999;
+  font-weight: normal;
+}
+
 .content form input {
   margin-bottom: 20px;
   border: 1px solid #ddd;
